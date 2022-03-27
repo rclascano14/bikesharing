@@ -1,6 +1,6 @@
 # bikesharing
 `Creating worksheets, dashboards, and stories from New York City bike-sharing data.`
-- My Tableau is available for viewing with the following link, 
+- My Tableau along with my Workbook Story is available for viewing with the following link, https://public.tableau.com/shared/H56NC6P94?:display_count=n&:origin=viz_share_link
 
 ## Resources
 - Jupyter Notebook
@@ -75,4 +75,4 @@ For this project, I have used the data visualization software of Tableau to pres
 
 ## Summary
 
-Throughout this statistical analysis, I have found that the majority of the Citi Bike users are male, the peak hours are 7-9AM. As the Visualizations of the NYC Citi Bike Dataset indicates, Des Moines should make a good fit for Citi Bikes to expand business to the city. 
+Throughout this statistical analysis, I have found that the majority of the Citi Bike users are male and subcribers, that the peak hours are 7-9AM and 5-7PM on weekdays and 10AM-7PM on weekends for these users and lastly, that the average ride is 6 minutes. As the Visualizations of the NYC Citi Bike Dataset indicates, Des Moines should make a good fit for Citi Bikes to expand business to the city. However, while my findings in this analysis do not warrant any reason not to bring business to Des Moines, I can still think of two Visualization ideas to further prove the efficacy of Des Moines Citi Bikes. One would be a visualization detailing weather and temperatures in New York City. A quick google search will show that weather between New York City and Des Moines is incredibly similar. Consequently, by analyzing ride patterns with different temperatures in NYC, you could apply these same findings to Des Moines. Another Visualization idea would be expand the Peak Hours Visualization to all months of the year to get a comprehensive view of Citi Bike usage across a typical year. 
